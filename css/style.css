@@ -393,7 +393,6 @@ body.active{
   width: calc(50% - 4.32%);
   height: 51.58vw;
   max-height: 840px;
-  background-color: beige;
 }
 .news-top {
   width: 100%;
